@@ -1,5 +1,5 @@
-# TO run the project
+# To run the project
 
-Go to the project folder
+`Go to the project folder
 Then type node server.js
-(You must have Node installed on your system)
+(You must have Node installed on your system)`
