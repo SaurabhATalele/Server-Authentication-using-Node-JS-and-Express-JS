@@ -1,6 +1,5 @@
-# Running the files
+# TO run the project
 
-To run this example:
-
-- `npm install` or `yarn`
-- `npm run dev` or `yarn dev`
+Go to the project folder
+Then type node server.js
+(You must have Node installed on your system)
