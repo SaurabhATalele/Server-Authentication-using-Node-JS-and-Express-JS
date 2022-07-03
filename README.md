@@ -1,4 +1,4 @@
-# Example
+# Running the files
 
 To run this example:
 
